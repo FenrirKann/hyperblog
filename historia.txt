@@ -1,7 +1,5 @@
-Yo soy Cristian Farfan
+Esta es la historia de Freddy Vega
 
-Me gusta mucho escuchar musica y juegar tejo.
+Freddy Vega tiene 32 años y nació en Colombia
 
-Este es mi inicio en el mundo de la programación.
-
-Hoy nos enfocaremos en su vida laboral.
+Mañana nos enfocaremos en su vida laboral
